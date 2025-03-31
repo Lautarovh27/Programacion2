@@ -11,7 +11,7 @@ public class ComplejidadEntregable {
 		}
 		return false;								// 1
 	}
-		// f(n) = 
+		// f(n) = 85
 	
 	
 	public static int filaSinRepetidos(int[][]mat) {
